@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="animated banner" />
+<img src="assets/banner.svg" width="100%" alt="animated banner" />
 
 <h1>Kubin Samuvel</h1>
 
